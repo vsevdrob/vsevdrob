@@ -12,5 +12,5 @@ You can click the Preview link to take a look at your changes.
 <!---
 #### Top Languages Card 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonwake769&layout=demo)](https://github.com/moonwake769/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonwake769&layout=github-dark)](https://github.com/moonwake769/github-readme-stats)
 --->
