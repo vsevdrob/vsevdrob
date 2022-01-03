@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 #### Github Stats 📊
 
-[![moonwake's github stats](https://github-readme-stats.vercel.app/api?username=moonwake769&theme=github-dark)](https://github.com/moonwake769/github-readme-stats)
+[![moonwake's github stats](https://github-readme-stats.vercel.app/api?username=moonwake769&show_icons=true&theme=dark)](https://github.com/moonwake769/github-readme-stats)
 
 <!---
 #### Top Languages Card 💻
