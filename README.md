@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vsevolod Drobyshev. It's nice to have you here on my GitHub profile!
+# Hi there 👋, I'm Vsevolod. It's nice to have you here on my GitHub profile!
 
 [![vsevdrob's github stats](https://github-readme-stats.vercel.app/api?username=vsevdrob&show_icons=true&theme=github_dark)](https://github.com/vsevdrob/github-readme-stats/tree/master)
 
